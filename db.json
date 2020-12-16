@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,401 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Ssmmy",
+      "dogBreed": "A cute one ",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 33
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 37
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 41
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 42
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 43
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 44
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 45
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 46
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 47
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 48
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 49
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 50
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 51
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 52
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 53
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 54
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 55
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 56
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 57
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 58
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 59
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 60
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 61
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 62
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 63
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 64
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 65
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 66
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 67
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 68
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 69
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 70
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 71
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 72
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 73
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 74
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 75
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 76
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 77
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 78
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 79
+    },
+    {
+      "name": "sara",
+      "email": "saracemal@gmail.com",
+      "id": 80
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -22,9 +415,11 @@
     }
   ],
   "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
